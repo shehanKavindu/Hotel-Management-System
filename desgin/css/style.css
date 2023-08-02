@@ -4,7 +4,7 @@
    --main-color:rgb(79, 35, 25);
    --sub-color:#DCC69C;
    --white:#fff;
-   --border:.1rem solid rgba(216, 182, 119, 0.3);
+   --border:.1rem solid rgba(220, 198, 156, .3);
 }
 
 *{
@@ -73,6 +73,7 @@ section{
 
 .header{
    padding-bottom: 0;
+   padding: ;
 }
 
 .header .flex{
