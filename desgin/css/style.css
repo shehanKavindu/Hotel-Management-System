@@ -585,4 +585,9 @@ section{
       width: 30rem;
    }
 
+   .gallery img{
+      height: 25rem;
+      width: 30rem;
+   }
+
 }
